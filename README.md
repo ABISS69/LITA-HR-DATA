@@ -6,10 +6,9 @@ This project shows the visualizations of HR DATA And MAP DATA of the Incubator H
 ### DATA ANALYSIS AND PREPARATION
 During Data Analysis and Preparation, the following actions were performed:
 1. Importing Data from Excel
-2. Transform the Data
+2. Transforming  the Data
 3. Data Cleaning
 ### DATA EXPLORATION
-The following 
 1. Map ( States By Population)
 2. Total Number of Employee
 3. Total Number of Attrition  and Current Employee
